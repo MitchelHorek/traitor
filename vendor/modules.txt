@@ -18,3 +18,4 @@ golang.org/x/crypto/ssh/terminal
 ## explicit
 golang.org/x/sys/unix
 golang.org/x/sys/windows
+тут была Катя
