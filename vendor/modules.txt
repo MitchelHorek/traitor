@@ -19,3 +19,5 @@ golang.org/x/crypto/ssh/terminal
 golang.org/x/sys/unix
 golang.org/x/sys/windows
 тут была Катя Вова Артём
+И СНОВА ВСЕМ ПРИВЕТ
+УГАДАЙТЕ КАКОЙ ЭТО КОМИТ ПО СЧЕТУ?
